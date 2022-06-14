@@ -20,7 +20,7 @@ Input images are resized to an optimal size and then fed into the **Convolutiona
 **Max Pooling:** A limitation of the feature map output of Convolutional Layers is that they record the precise position of features in the input. This means that small movements in the position of the feature in the input image will result in a different feature map. This can happen with re-cropping, rotation, shifting, and other minor changes to the input image. A common approach to addressing this problem from signal processing is called down sampling. This is where a lower resolution version of an input signal is created that still contains the large or important structural elements, without the fine detail that may not be as useful to the task.
 
 
-An illustration of the model:
+An illustration of UNET model:
 
 ![image](https://user-images.githubusercontent.com/97231735/173613910-2a1af78c-f3c9-48af-b70c-47e9b8041ec7.png)
 
