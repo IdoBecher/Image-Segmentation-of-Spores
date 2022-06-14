@@ -1,5 +1,5 @@
 # Image-Segmentation-of-Spores
-Segmentation of Microscope Images of Spores in a Petry Dish Taken in a Laboratory.
+Segmentation of microscope images of spores in a petry dish taken in a laboratory.
 
 ## Dataset
 Images of surfaces that are scattered in spores and taken using a microscope.
